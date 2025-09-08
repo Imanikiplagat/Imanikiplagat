@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/Imanikiplagat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 👋 Hi, I’m @Imanikiplagat
 - 👀 I’m interested in Data Analysis .
 - 🌱 I’m currently learning excel then I can advance to SQL and finally Python.
