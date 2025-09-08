@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Imanikiplagat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Imanikiplagat&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 👋 Hi, I’m @Imanikiplagat
@@ -8,8 +8,7 @@
 - 📫 You can reach me on my instagram handle @Robifay
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I love going to new places and try new food.
-  ![Fay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imanikiplagat&show_icons=true&theme=radical)
-  
+  ![Fay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imanikiplagat&show_icons=true&theme=dracula)  
   ![Fay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imanikiplagat&show_icons=true&theme=radical)
 
 
