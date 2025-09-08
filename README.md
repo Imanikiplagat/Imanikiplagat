@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Imanikiplagat&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Imanikiplagat&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 👋 Hi, I’m @Imanikiplagat
@@ -8,10 +8,11 @@
 - 📫 You can reach me on my instagram handle @Robifay
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I love going to new places and try new food.
-- <div style="display: flex; justify-content: center;">
+  <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Imanikiplagat&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
   <img src="https://streak-stats.demolab.com?user=Imanikiplagat&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/> 
 </div>
+
 <!---
 Imanikiplagat/Imanikiplagat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
