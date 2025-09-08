@@ -8,10 +8,12 @@
 - 📫 You can reach me on my instagram handle @Robifay
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I love going to new places and try new food.
+  
   <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imanikiplagat&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Imanikiplagat&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/> 
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Imanikiplagat&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imanikiplaga&layout=compact&theme=tokyonight" height="150"/>
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Imanikiplagat&theme=tokyohight&hide_border=true)
 
 <!---
 Imanikiplagat/Imanikiplagat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
