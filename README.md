@@ -8,6 +8,10 @@
 - 📫 You can reach me on my instagram handle @Robifay
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I love going to new places and try new food.
+  ![Fay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imanikiplagat&show_icons=true&theme=radical)
+  
+  ![Fay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imanikiplagat&show_icons=true&theme=radical)
+
 
 <!---
 Imanikiplagat/Imanikiplagat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
