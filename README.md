@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Imanikiplagat&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>    
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imanikiplagat&layout=compact&theme=tokyonight" height="150"/>
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Imanikiplagat&theme=tokyohight&hide_border=true)
+ 
 
 <!---
 Imanikiplagat/Imanikiplagat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
