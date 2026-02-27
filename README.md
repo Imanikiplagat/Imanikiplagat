@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Imanikiplagat&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 👋 Hi, I’m @Imanikiplagat
+-  ### Hi, I’m @Imanikiplagat
 - 👀 I’m passionate about **Frontend Development** and building interactive web experiences.
 - 🌱 I’m currently learning **ReactJS**, **Tailwind CSS**, and improving my JavaScript skills.
 - 💞️ I’m looking to collaborate on projects related to **web development**, **UI/UX design**, and **responsive websites**.
@@ -20,5 +20,4 @@
 - **Responsive Design & UI/UX Principles**
 - **Basic Node.js & API Integration**
 
-- ![Power Learn Project Alumni](https://img.shields.io/badge/Power_Learn-Alumni-brightgreen)
-![Hackathon 2nd Runner-Up](https://img.shields.io/badge/Hackathon-2nd%20Runner--Up-blue)
+
