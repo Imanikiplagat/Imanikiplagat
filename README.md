@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Imanikiplagat&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=imanikiplagat&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👋 Hi, I’m @Imanikiplagat
 - 👀 I’m passionate about **Frontend Development** and building interactive web experiences.
