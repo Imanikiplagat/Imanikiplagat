@@ -19,3 +19,6 @@
 - **Git & GitHub**
 - **Responsive Design & UI/UX Principles**
 - **Basic Node.js & API Integration**
+
+- ![Power Learn Alumni](https://img.shields.io/badge/Power_Learn-Alumni-brightgreen)
+![Hackathon 2nd Runner-Up](https://img.shields.io/badge/Hackathon-2nd%20Runner--Up-blue)
